@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Masher828
 - 👀 I’m interested in Web Development & Deep Learning
-- 🌱 I’m currently learning MERN
+- 🌱 I’m currently working in GO Python
 - 💞️ I’m looking to collaborate on Web /software Development Project
 - 📫 How to reach me https://linkedin.com/in/masher828
 
